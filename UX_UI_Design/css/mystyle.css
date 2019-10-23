@@ -1,0 +1,67 @@
+.goo-p {
+    background: red
+}
+
+.font-h3{
+    font-family: Pangolin, cursive
+}
+
+.font-h3-1{
+    font-family: Pacifico, cursive
+}
+
+.font-h4{
+    font-family: Pattaya, cursive
+}
+
+.font-h3-2{
+    font-family: Farsan, cursive
+}
+
+.font-h5{
+    font-family: Sriracha, cursive
+}
+
+.font-h3-3{
+    font-family: 'Encode Sans Semi Expanded', cursive
+}
+
+.a12 {
+	background: url(../images/p5.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 350px;
+}
+
+.a13 {
+	background: url(../images/p6.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 350px;
+}
+
+.a15 {
+	background: url(../images/p7.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 350px;
+}
+
+.a16 {
+	background: url(../images/p8.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height: 350px;
+}
